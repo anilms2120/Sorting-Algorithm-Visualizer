@@ -1,0 +1,83 @@
+.js .accordion:nth-child(n+1) { display: none }
+
+.bar-container{
+
+	margin-top: 20px;
+	width:fit-content;
+	margin-right: auto;
+	margin-left:auto;
+	height: 400px;
+}
+
+.bars
+{
+	width:0.22em;
+	background-color: blue;
+	display: inline-block;
+	margin:0 1px;
+
+}
+
+.base
+{
+	width:100%;
+	height : 500px;
+}
+
+header{
+
+	background-color: purple;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	font-family:Courier  ;
+	font-weight: bold;
+
+}
+
+.slide{
+	width:700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+label{
+	padding:20px;
+	font-weight: bold;
+	font-size:26px;
+	color:purple;
+}
+
+input{
+	margin-left: 15px;
+	width:125px;
+}
+
+.buttons{
+	width:700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+button{
+	margin:13px;
+	padding: 6px;
+	width: 120px;
+	
+}
+
+.btn{
+
+	font-weight: bold;
+	color : purple;
+	border-color: purple;
+}
+
+.btn:hover{
+
+	background-color: purple;
+}
+
+
+
+
